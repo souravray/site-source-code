@@ -71,4 +71,4 @@ theme: my-site-dark
 deploy:
   type: git
   repo: https://github.com/souravray/souravray.github.io.git
-  message: "new commit"
+  message: "new commit on the website"
