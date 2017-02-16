@@ -1,38 +1,9 @@
 ---
 title: Hello World
+tags: lab
+categories: text collage
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+Consider an HTML application running in the description of the content of a browser tab running in a human is impossible without elaborating it graphical environment. Suppose this application had in the context of use and a page with some text fields practices, while elaboration itself is impossible and links, and was currently showing without following minimally prescriptive laws of a modal dialog, which itself had commitment-making, inference, and judgment. Describing human a text field and a button.
 
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+Without turning to an account of the hierarchy of focusable widgets, in foundational descriptions or an a priori this scenario, would include the browser access to descriptive resources is already window, which would have, amongst its a minimally but functionally hegemonic prescriptive children, the browser tab containing the project that adheres to oughts of HTML application. The tab itself would specification and elaboration of the meaning have as its children the various of being human through features and links and text fields, as well requirements of its use. As the dialog. The dialog itself would have as its children the text field and the button.

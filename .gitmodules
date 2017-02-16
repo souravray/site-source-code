@@ -1,0 +1,3 @@
+[submodule "themes/my-site-dark"]
+	path = themes/my-site-dark
+	url = https://github.com/souravray/my-site-dark.git
