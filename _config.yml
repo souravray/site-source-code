@@ -5,14 +5,14 @@
 # Site
 title: Sourav Ray
 subtitle: Technology / Product Consultant
-description: Hi, I’m a theme for the Hexo blogging framework. I’m particularly great for a personal web page with a simple blog. In this paragraph, you can provide some information about yourself. Below, you’re most recent or highlited writings and projects are listed.
+description: Hi, I’m Sourav Ray. I’m particularly great for a personal web page with a simple blog. In this paragraph, you can provide some information about yourself. Below, you’re most recent or highlited writings and projects are listed.
 author: Sourav Ray
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://raysourav.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -69,4 +69,6 @@ theme: my-site-dark
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/souravray/souravray.github.io.git
+  message: "new commit"
