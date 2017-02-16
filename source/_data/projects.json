@@ -1,12 +1,17 @@
  [
       {
-         "name":"Hexo",
-         "url":"https://hexo.io/",
-         "desc":"A fast, simple & powerful blog framework"
+         "name":"MongoJacket",
+         "url":"https://github.com/souravray/mongojacket",
+         "desc":"A lightweight MongoDB ODM for PHP, heavily inspired by mongoskin"
       },
       {
-         "name":"Font Awesome",
-         "url":"http://fontawesome.io/",
-         "desc":"The iconic font and CSS toolkit"
+         "name":"polybolos",
+         "url":"https://github.com/souravray/polybolos",
+         "desc":"A highly flixible priority task-queue, witten in golang. It exists; purely because the fact that, once I got upseted to work with celerey and its alternatives"
+      },
+      {
+         "name":"ColorPaths",
+         "url":"https://souravray.github.io/ColorPaths/",
+         "desc":"HTML5 clone of a popular game"
       }
   ]
