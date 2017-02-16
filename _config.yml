@@ -73,4 +73,3 @@ deploy:
   type: git
   repo: git@github.com:souravray/souravray.github.io.git
   message: "new commit on the website"
-  branch: gh-pages
