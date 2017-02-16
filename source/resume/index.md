@@ -103,7 +103,7 @@ Product Management | 20
 ## Technology, Libraries & Frameworks
 + Wrote slick web services / micro-services in  **PHP** (using **Symfony**, **Slim**, **CodeIgniterr**), **Node.js** (using **Express**), **Golang**  (using **Revel**, **Gin**)
 + Woked with various relational databases like **MySQL**, **PostgreSQL** and non SQL data-stores like **MongoDB**, **Memcached**/**Membase**, **Redis**, **Riak**, **DynamoDB**
-+ Build native mobile apps using **Obj-C**, **Swift**, **Cocos 2D** and developed Hybrid apps using **jQuery**, **Angular**, **Cordova**
++ Built native mobile apps using **Obj-C**, **Swift**, **Cocos 2D** and developed Hybrid apps using **jQuery**, **Angular**, **Cordova**
 + Worked extensively with web/neworking protocols **http**, **TCP**, **UDP**, **WebRTC**, Bluetooth protocols
 + Worked with various frontend js frameworks like **BackboneJS**, **Marionette**, **AngularJS 1.x**
 
