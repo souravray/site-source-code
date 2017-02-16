@@ -70,5 +70,6 @@ theme: my-site-dark
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/souravray/souravray.github.io.git
+  repo: git@github.com:souravray/souravray.github.io.git
   message: "new commit on the website"
+  branch: gh-pages
